@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/whitebg"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_marginTop="40dp"
+    tools:context=".signup">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Confirm Book"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="40sp"/>
+
+
+
+            <EditText
+                android:id="@+id/ETXT_FName"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custom_edittext"
+                android:drawablePadding="8dp"
+                android:hint="Full Name"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:inputType="textEmailAddress"
+                android:padding="8dp" />
+
+            <EditText
+                android:id="@+id/ETXT_Username"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custom_edittext"
+                android:drawablePadding="8dp"
+                android:hint="User Name"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:inputType="textEmailAddress"
+                android:padding="8dp" />
+
+            <EditText
+                android:id="@+id/ETXT_Email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/black"
+                android:background="@drawable/custom_edittext"
+                android:drawablePadding="8dp"
+                android:hint="Email Address"
+                android:textColorHint="@color/black"
+                android:inputType="textEmailAddress"
+                android:padding="8dp" />
+
+
+
+            <EditText
+                android:id="@+id/ETXT_Phone"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custom_edittext"
+                android:drawablePadding="8dp"
+                android:maxLength="10"
+                android:textColor="@color/black"
+                android:hint="Contact Number"
+                android:textColorHint="@color/black"
+                android:inputType="phone"
+                android:padding="8dp" />
+
+            <EditText
+                android:id="@+id/ETXT_RoomID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/black"
+                android:background="@drawable/custom_edittext"
+                android:drawablePadding="8dp"
+                android:hint="Room No"
+                android:textColorHint="@color/black"
+                android:inputType="textEmailAddress"
+                android:padding="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="8dp"
+                android:text="Checkin Date"
+                android:textSize="18sp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/ETXT_DateIn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/black"
+                android:textColor="@color/black"
+                android:hint="Select Date"
+                android:drawableEnd="@drawable/baseline_edit_calendar_24"
+                android:focusable="false"
+                android:clickable="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="8dp"
+                android:text="CheckOut Date"
+                android:textSize="18sp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/ETXT_DateOut"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/black"
+                android:textColor="@color/black"
+                android:hint="Select Date"
+                android:drawableEnd="@drawable/baseline_edit_calendar_24"
+                android:focusable="false"
+                android:clickable="true"/>
+
+
+            <Button
+                android:id="@+id/BTN_CBook"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#9EACD7"
+                android:textColor="@color/black"
+                android:text="Confirm Booking"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>

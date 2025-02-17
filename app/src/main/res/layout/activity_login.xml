@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login"
+    android:background="@drawable/launcherbg"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        app:cardBackgroundColor="#80FFFFFF"
+        app:cardCornerRadius="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="LuxeVista Resort"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                android:textAlignment="center"/>
+
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/ETXT_Email"
+                android:background="@drawable/custom_edittext"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/black"
+                android:padding="8dp"
+                android:inputType="textEmailAddress"
+                android:drawableLeft="@drawable/icon_email"
+                android:drawablePadding="8dp"
+                android:textColorHint="@color/black"
+                android:hint="Email Address"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/ETXT_Password"
+                android:background="@drawable/custom_edittext"
+                android:layout_marginTop="20dp"
+                android:padding="8dp"
+                android:inputType="textPassword"
+                android:textColor="@color/black"
+                android:drawableLeft="@drawable/icon_lock"
+                android:drawablePadding="8dp"
+                android:textColorHint="@color/black"
+                android:hint="Enter Password"/>
+
+            <Button
+                android:id="@+id/BTN_Login"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="LOGIN"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"
+                android:layout_marginTop="30dp" />
+
+            <TextView
+                android:id="@+id/TXT_btnRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:padding="8dp"
+                android:text="New to here? Register"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

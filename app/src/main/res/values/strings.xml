@@ -1,0 +1,160 @@
+<resources>
+
+    <string name="deluxe_02">Emerald Escape (Deluxe Room 2) \n
+    $115 per night \n
+    A sophisticated space with sleek interiors, modern amenities, and a spacious bathroom. Designed for comfort and relaxation.\n
+    ✔️ Queen-size bed \n
+    ✔️ City skyline view \n
+    ✔️ Work desk and coffee maker \n
+    ✔️ Complimentary gym access \n
+    </string>
+
+    <string name="deluxe_05"> Pearl Prestige (Deluxe Room 5)\n – $125 per night\n
+
+    A stylishly furnished room with soothing colors, premium bedding, and top-tier amenities. Ideal for relaxation and work.\n
+    ✔️ Queen-size bed\n
+    ✔️ Work-friendly desk\n
+    ✔️ Smart home automation features\n
+    ✔️ Complimentary spa access\n
+
+
+    </string>
+
+    <string name="deluxe_04">Diamond Haven (Deluxe Room 4)\n – $130 per night\n
+
+    Enjoy a lavish stay with a spacious layout, elegant design, and stunning city views from the balcony.\n
+    ✔️ Free Airport Shuttle\n
+    ✔️ Private balcony with lounge seating\n
+    ✔️ Luxury bathroom with rain shower\n
+    ✔️ Free airport shuttle\n
+
+    </string>
+
+    <string name="deluxe_01">Sapphire Suite (Deluxe Room 1) \n– $120 per night\n
+
+    Step into elegance with a plush king-sized bed, stylish décor, and a private balcony with a city view. Ideal for a peaceful retreat with a touch of luxury.\n
+    ✔️ King-size bed\n
+    ✔️ Private balcony\n
+    ✔️ Smart TV and high-speed Wi-Fi\n
+    ✔️ Complimentary breakfast\n
+
+    </string>
+
+    <string name="beach_01">Malibu Bliss (Beach View Room 1)\n – $150 per night\n
+
+    Wake up to breathtaking ocean views and the sound of crashing waves. The perfect romantic getaway or solo retreat.\n
+    ✔️ King-size bed \n
+    ✔️ Private balcony overlooking the ocean \n
+    ✔️ Beachfront access \n
+    ✔️ Complimentary breakfast and sunset drinks \n
+
+    </string>
+
+    <string name="beach_05">Phuket Paradise (Beach View Room 5)\n – $165 per night\n
+
+    The ultimate tropical escape with modern interiors and direct access to the golden sands of the beach.\n
+    ✔️ King-size bed\n
+    ✔️ Floor-to-ceiling ocean view windows\n
+    ✔️ Complimentary yoga and wellness sessions\n
+    ✔️ Sunset boat cruise included\n
+
+
+    </string>
+
+    <string name="deluxe_03">Ruby Retreat (Deluxe Room 3) \n
+    $110 per night \n
+    A cozy and vibrant room with warm tones and stylish furnishings. Perfect for solo travelers or couples seeking comfort.\n
+    ✔️ Queen-size bed \n
+    ✔️ Cozy reading corner \n
+    ✔️ 24/7 room service \n
+    ✔️ Complimentary minibar \n
+    </string>
+
+    <string name="beach_02">Waikiki Breeze (Beach View Room 2) \n
+    $140 per night\n
+    A tropical-inspired room with sunlit interiors, airy design, and a panoramic beach view.\n
+    ✔️ Queen-size bed\n
+    ✔️ Open-concept design with large windows\n
+    ✔️ Smart TV and premium sound system\n
+    ✔️ Private beach cabana access\n
+    </string>
+
+    <string name="beach_03">Santorini Serenity (Beach View Room 3) \n
+    $160 per night\n
+    An elegant Greek-inspired suite with whitewashed walls, blue accents, and stunning ocean views. Ideal for honeymooners.\n
+    ✔️ King-size bed\n
+    ✔️ Private balcony with daybed\n
+    ✔️ Rainfall shower and luxury bath products\n
+    ✔️ Candlelit dinner option on request\n
+    </string>
+
+    <string name="beach_04">Bora Bora Escape (Beach View Room 4) \n
+    $155 per night\n
+    A paradise-like retreat offering a cozy yet luxurious setting with direct beach access.\n
+    ✔️ Queen-size bed\n
+    ✔️ Private terrace with hammock\n
+    ✔️ Complimentary paddle boarding and beach gear\n
+    ✔️ Personalized butler service\n
+    </string>
+
+    <string name="Spa_Treatments">Relax and Rejuvenate Spa Package\n
+    Duration: 2-3 hours\n
+    Price: $60\n
+    Inclusions:\n
+    1. Welcome Drink and Aromatherapy Towel – A refreshing herbal tea or detox water upon arrival.\n
+    2. Full Body Massage (60 min) – Choose from Swedish, deep tissue, or aromatherapy massage.\n
+    3. Facial Treatment (30 min) – A hydrating or detoxifying facial using natural products.\n
+    4. Foot Reflexology (20 min) – A soothing foot massage to relieve tension.\n
+    </string>
+
+    <string name="Fine_Dining">Luxury Fine Dining Experience\n
+    Duration: 2-3 hours\n
+    Price: $45\n
+    Inclusions:\n
+    1. Welcome Drink and Canapés – Signature cocktail/mocktail with gourmet bite-sized appetizers.\n
+    2. 3 to 5-Course Gourmet Meal – A curated menu featuring:\n
+       ✔️ Appetizer: Soup or salad with artisanal bread.\n
+       ✔️ Entrée: Choice of premium meat, seafood, or vegetarian dish.\n
+       ✔️ Dessert: Decadent sweets like chocolate fondant or crème brûlée.\n
+    3. Premium Wine Pairing (Optional) – Hand-selected wines to complement each dish.\n
+    </string>
+
+    <string name="Poolside_Cabanas">🌴 Poolside Cabana Escape Package 🌊\n
+
+    Experience ultimate relaxation in a private cabana by the pool, perfect for a romantic getaway, family fun, or a day of pure luxury.\n
+
+    📅 Package Options and Pricing\n
+
+    1️⃣ Half-Day (4 Hours) – $75\n
+    2️⃣ Full-Day (8 Hours) – $130\n
+    3️⃣ Sunset and Night Package (5 PM - 10 PM) – $100 (Ideal for romantic evenings)\n
+
+
+    ✔️ Private Poolside Cabana with comfortable lounge seating\n
+    ✔️ Welcome Drink (Choice of fresh juice, mocktail, or sparkling water)\n
+    ✔️ Towel and Sunbed Service\n
+    ✔️ Complimentary Snacks and Fresh Fruits\n
+    ✔️ Personalized Poolside Butler Service\n
+    ✔️ Bluetooth Speaker for Private Music\n
+    </string>
+
+    <string name="beach_tours">🌊🏝️ Guided Beach Tour Package 🏝️🌊\n
+
+    Discover breathtaking coastal views, hidden gems, and local culture with our expert-guided beach tour. Perfect for solo travelers, couples, and families!\n
+
+    📅 Package Options and Pricing\n
+
+    1️⃣ Sunrise Serenity Tour (6 AM - 9 AM) – $50 per person (Experience the peaceful morning glow and refreshing sea breeze.)\n
+    2️⃣ Daytime Explorer Tour (10 AM - 2 PM) – $75 per person (Enjoy beach hopping, water activities, and scenic views.)\n
+
+    🌴 What’s Included?\n
+
+    ✔️ Professional Local Guide\n
+    ✔️ Beach Hopping (Visit 3-5 Stunning Beaches)\n
+    ✔️ Snorkeling Gear and Life Jackets (For Full-Day and Daytime Tours)\n
+    </string>
+
+
+    <string name="app_name">Resort</string>
+
+</resources>
